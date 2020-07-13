@@ -11,8 +11,12 @@ I 💕 to ⚒ with Graphql, Nestjs and Reactjs
 ```js
 ## Status Code: 200
 {
-  "backend"  : ["Nestjs", "Express", "Graphql"],
-  "frontend" : ["React"]
+  "languages"  : [],
+  "backend"    : ["Nestjs", "Express", "Graphql", ...more],
+  "mobile-app" : ["Flutter"],
+  "frontend"   : ["React"],
+  "dbms"       : ["MongoDB", "MySQL", "Array 😂"],
+  "dbms-orm"   : ["Prisma", "Mongoose", "Typegoose", "TypeORM", "Sequilize"],         :
 }
 ```
 
