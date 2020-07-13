@@ -11,7 +11,7 @@ I 💕 to ⚒ with Graphql, Nestjs and Reactjs
 ```js
 ## Status Code: 200
 {
-  "languages"  : [],
+  "languages"  : ["PHP", "C", "C++", "JAVA", "TypeScript", "JavaScript", "Priority Right 👈 Left", ...more],
   "backend"    : ["Nestjs", "Express", "Graphql", ...more],
   "mobile-app" : ["Flutter"],
   "frontend"   : ["React"],
@@ -20,5 +20,14 @@ I 💕 to ⚒ with Graphql, Nestjs and Reactjs
 }
 ```
 
-[![Question](https://img.shields.io/badge/%20-Question-black?color=14171A&labelColor=212121&logo=stackoverflow&logoColor=ffffff)](https://stackoverflow.com/users/12499617/shuvro)   [![linkedin Follow](https://img.shields.io/badge/%20-Follow-black?color=006097&labelColor=006097&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mi-shuvro-0256031b2)   [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/xcode.shuvro)
+### /shuvro/opensrc
+
+```js
+{
+  "quick-crud" : "https://www.npmjs.com/package/quick-crud"
+}
+```
+[![Question](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/12499617/shuvro)
+  [![linkedin Follow](https://img.shields.io/badge/%20-Follow-black?color=006097&labelColor=006097&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mi-shuvro-0256031b2) 
+  [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/xcode.shuvro)
 
