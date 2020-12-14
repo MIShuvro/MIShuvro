@@ -14,7 +14,7 @@ I 💕 to ⚒ with Graphql, Nestjs and Reactjs
   "languages"  : ["PHP", "C", "C++", "JAVA", "TypeScript", "JavaScript", "Priority Right 👈 Left", ...more],
   "backend"    : ["Nestjs", "Express", "Graphql", ...more],
   "mobile-app" : ["Flutter"],
-  "frontend"   : ["React"],
+  "frontend"   : ["Angular"],
   "dbms"       : ["MongoDB", "MySQL", "Array 😂"],
   "dbms-orm"   : ["Prisma", "Mongoose", "Typegoose", "TypeORM", "Sequilize"],         :
 }
