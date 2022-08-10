@@ -31,7 +31,6 @@ I 💕 to ⚒ with Graphql, Nestjs and Reactjs
 
 ![Shuvro's GitHub stats](https://github-readme-stats.vercel.app/api?username=MIShuvro&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Question](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/12499617/shuvro)
   [![linkedin Follow](https://img.shields.io/badge/%20-Follow-black?color=006097&labelColor=006097&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mi-shuvro-0256031b2) 
