@@ -35,7 +35,7 @@ I 💕 to ⚒ with Graphql, Nestjs and Reactjs
   [![linkedin Follow](https://img.shields.io/badge/%20-Follow-black?color=006097&labelColor=006097&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mi-shuvro-0256031b2) 
   [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/xcode.shuvro)
   
-  ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/MIShuvro/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
   
   ```
   readme: v0.1.2
