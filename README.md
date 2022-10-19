@@ -14,10 +14,12 @@ I 💕 to ⚒ with Nestjs, Graphql and Angularjs
 ## Status Code: 200
 {
   "languages"  : ["PHP", "C", "C++", "JAVA", "TypeScript", "JavaScript", "Priority Right 👈 Left", ...more],
-  "backend"    : ["Nestjs", "Express", "Graphql", ...more],
+  "backend"    : ["Nestjs", "Expressjs", "Graphql", ...more],
   "frontend"   : ["Angularjs"],
   "dbms"       : ["MongoDB", "MySQL", "Array 😂"],
-  "dbms-orm"   : ["Mongoose", "Typegoose", "TypeORM","Prisma","Sequilize"],         :
+  "dbms-orm"   : ["Mongoose", "Typegoose", "TypeORM","Prisma","Sequilize"],
+  "messaging"  : ["RabbitMQ"],
+  "caching"    : ["Redis", "Local Storage"]
 }
 ```
 
