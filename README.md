@@ -2,9 +2,9 @@
 
 > Co-founder of [TechDiary](https://www.techdiary.dev)
 
-A passionate Full Stack Software Developer ❤ having an experience of building Web applications with JavaScript/ Reactjs/ Nodejs and some other cool libraries and frameworks.
+A passionate Full Stack Software Developer ❤ having an experience of building Web applications with JavaScript/ Angularjs/ Nodejs and some other cool libraries and frameworks.
 
-I 💕 to ⚒ with Graphql, Nestjs and Reactjs
+I 💕 to ⚒ with Graphql, Nestjs and Angularjs
 
 ### ~/shuvro/mystacks
 
@@ -13,10 +13,9 @@ I 💕 to ⚒ with Graphql, Nestjs and Reactjs
 {
   "languages"  : ["PHP", "C", "C++", "JAVA", "TypeScript", "JavaScript", "Priority Right 👈 Left", ...more],
   "backend"    : ["Nestjs", "Express", "Graphql", ...more],
-  "mobile-app" : ["Flutter"],
-  "frontend"   : ["Angular"],
+  "frontend"   : ["Angularjs"],
   "dbms"       : ["MongoDB", "MySQL", "Array 😂"],
-  "dbms-orm"   : ["Prisma", "Mongoose", "Typegoose", "TypeORM", "Sequilize"],         :
+  "dbms-orm"   : ["Mongoose", "Typegoose", "TypeORM","Prisma","Sequilize"],         :
 }
 ```
 
@@ -37,7 +36,7 @@ I 💕 to ⚒ with Graphql, Nestjs and Reactjs
   [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/xcode.shuvro)
   
   ```
-  readme: v0.1.2
+  readme: v0.1.3
   ```
   
 
