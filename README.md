@@ -1,7 +1,8 @@
 ## Hi 👋 I'm Shuvro
 
 > Co-founder of [TechDiary](https://www.techdiary.dev)
-> Backend Engineer at [10 Minute School](https://10minuteschool.com/)
+
+> Backend Engineer at [10 Minute School](https://10minuteschool.com)
 
 A passionate Full Stack Software Developer ❤ having an experience of building Web applications with JavaScript/ Angularjs/ Nodejs and some other cool libraries and frameworks.
 
