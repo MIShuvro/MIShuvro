@@ -8,6 +8,8 @@ A passionate Full Stack Software Developer ❤ having an experience of building 
 
 I 💕 to ⚒ with Nestjs, Graphql and Angularjs
 
+![Profile views](https://gpvc.arturio.dev/MIShuvro)
+
 ### ~/shuvro/mystacks
 
 ```js
