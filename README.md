@@ -18,7 +18,7 @@ I 💕 to ⚒ with Nestjs, Graphql and Angularjs
   "languages"  : ["PHP", "C", "C++", "JAVA", "TypeScript", "JavaScript", "Priority Right 👈 Left", ...more],
   "backend"    : ["Nestjs", "Expressjs", "Graphql", ...more],
   "frontend"   : ["Angularjs"],
-  "dbms"       : ["MongoDB", "MySQL", "Array 😂"],
+  "dbms"       : ["MongoDB", "MySQL", "PostgreSQL", "Array 😂"],
   "dbms-orm"   : ["Mongoose", "Typegoose", "TypeORM","Prisma","Sequilize"],
   "messaging"  : ["RabbitMQ"],
   "caching"    : ["Redis", "Local Storage"]
